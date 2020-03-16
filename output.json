@@ -1,0 +1,75 @@
+{"res_id":1,"res_name":"Brahma Brews","res_area":"JP Nagar","res_type":"Microbrewery,Casual Dining"}
+{"res_id":2,"res_name":"Masala Mandi","res_area":"Sarjapur Road","res_type":"Casual Dining"}
+{"res_id":3,"res_name":"The Big Barbeque","res_area":"Electronic City","res_type":"Casual Dining"}
+{"res_id":4,"res_name":"Levels","res_area":"JP Nagar","res_type":"Pub,Casual Dining"}
+{"res_id":5,"res_name":"Dr. Sheesha 24 Hours Gastro Pub","res_area":"The Sahar Pavilion, Electronic City","res_type":"Pub"}
+{"res_id":6,"res_name":"Byg Brewski Brewing Company","res_area":"Sarjapur Road","res_type":"Microbrewery"}
+{"res_id":7,"res_name":"URU Brewpark","res_area":"JP Nagar","res_type":"Microbrewery,Casual Dining"}
+{"res_id":8,"res_name":"Hoot","res_area":"Sarjapur Road","res_type":"Microbrewery,Casual Dining"}
+{"res_id":9,"res_name":"The Fisherman's Wharf","res_area":"Sarjapur Road","res_type":"Casual Dining,Bar"}
+{"res_id":10,"res_name":"AB's - Absolute Barbecues","res_area":"BTM","res_type":"Casual Dining"}
+{"res_id":11,"res_name":"Meghana Foods","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":12,"res_name":"The Globe Grub","res_area":"BTM","res_type":"Casual Dining"}
+{"res_id":13,"res_name":"The Pump House","res_area":"JP Nagar","res_type":"Microbrewery"}
+{"res_id":14,"res_name":"Stories - The Brew Chapter","res_area":"BTM","res_type":"Microbrewery,Casual Dining"}
+{"res_id":15,"res_name":"Shivaji Military Hotel","res_area":"Jayanagar","res_type":"Quick Bites"}
+{"res_id":16,"res_name":"Sattvam","res_area":"JP Nagar","res_type":"Casual Dining"}
+{"res_id":17,"res_name":"The Barbecue Kingdom","res_area":"Electronic City","res_type":"Casual Dining"}
+{"res_id":18,"res_name":"House Of Commons","res_area":"HSR","res_type":"Bar"}
+{"res_id":19,"res_name":"Gufha - The President Hotel","res_area":"The President Hotel, Jayanagar","res_type":"Casual Dining"}
+{"res_id":20,"res_name":"What the Ale?!","res_area":"Electronic City","res_type":"Microbrewery,Casual Dining"}
+{"res_id":21,"res_name":"Mavalli Tiffin Room (MTR)","res_area":"Basavanagudi","res_type":"Quick Bites"}
+{"res_id":22,"res_name":"Levitate Brewery and Kitchen","res_area":"JP Nagar","res_type":"Microbrewery,Casual Dining"}
+{"res_id":23,"res_name":"Taaza Thindi","res_area":"Jayanagar","res_type":"Quick Bites"}
+{"res_id":24,"res_name":"Fat Owl","res_area":"JP Nagar","res_type":"Bar,Casual Dining"}
+{"res_id":25,"res_name":"Go Native","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":26,"res_name":"1522 - The Pub","res_area":"JP Nagar","res_type":"Pub"}
+{"res_id":27,"res_name":"Tipsy Bull - The Bar Exchange","res_area":"JP Nagar","res_type":"Bar,Casual Dining"}
+{"res_id":28,"res_name":"Hammered","res_area":"HSR","res_type":"Bar,Casual Dining"}
+{"res_id":29,"res_name":"Rural Blues","res_area":"Sarjapur Road","res_type":"Casual Dining,Bar"}
+{"res_id":30,"res_name":"Subz","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":31,"res_name":"OPUS Club","res_area":"OPUS, Sarjapur Road","res_type":"Pub"}
+{"res_id":32,"res_name":"Onesta","res_area":"HSR","res_type":"Casual Dining,Caf\u00e9"}
+{"res_id":33,"res_name":"Whattay Kitchen and Brew","res_area":"Kanakapura Road","res_type":"Microbrewery,Casual Dining"}
+{"res_id":34,"res_name":"Grasshopper","res_area":"Bannerghatta Road","res_type":"Fine Dining"}
+{"res_id":35,"res_name":"Empire Restaurant","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":36,"res_name":"Broadway - The Gourmet Theatre","res_area":"HSR","res_type":"Casual Dining,Bar"}
+{"res_id":37,"res_name":"La Casa Brewery And Kitchen","res_area":"Sarjapur Road","res_type":"Microbrewery,Casual Dining"}
+{"res_id":38,"res_name":"Chulha Chauki Da Dhaba","res_area":"Sarjapur Road","res_type":"Casual Dining"}
+{"res_id":39,"res_name":"Stories","res_area":"JP Nagar","res_type":"Pub,Casual Dining"}
+{"res_id":40,"res_name":"Vidyarthi Bhavan","res_area":"Basavanagudi","res_type":"Quick Bites"}
+{"res_id":41,"res_name":"By The Peepal","res_area":"JP Nagar","res_type":"Microbrewery,Casual Dining"}
+{"res_id":42,"res_name":"Brother Barley Brewing Company","res_area":"HSR","res_type":"Microbrewery,Casual Dining"}
+{"res_id":43,"res_name":"Dindigul Thalappakatti","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":44,"res_name":"Ruh","res_area":"Bellandur","res_type":"Casual Dining"}
+{"res_id":45,"res_name":"Al Daaz","res_area":"HSR","res_type":"Casual Dining"}
+{"res_id":46,"res_name":"Public - The Rooftop Bar And Kitchen","res_area":"Bannerghatta Road","res_type":"Casual Dining,Bar"}
+{"res_id":47,"res_name":"Oyster","res_area":"HSR","res_type":"Casual Dining,Bar"}
+{"res_id":48,"res_name":"Shift","res_area":"HSR","res_type":"Lounge,Casual Dining"}
+{"res_id":49,"res_name":"Millennials","res_area":"JP Nagar","res_type":"Bar,Casual Dining"}
+{"res_id":50,"res_name":"Three Dots & A Dash","res_area":"JP Nagar","res_type":"Bar,Casual Dining"}
+{"res_id":51,"res_name":"Cable Car","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":52,"res_name":"Basil Bistro","res_area":"HSR","res_type":"Casual Dining"}
+{"res_id":53,"res_name":"Tea Villa Cafe","res_area":"Jayanagar","res_type":"Caf\u00e9"}
+{"res_id":54,"res_name":"Olive Grove","res_area":"Electronic City","res_type":"Casual Dining"}
+{"res_id":55,"res_name":"Toscano","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":56,"res_name":"Chavadi","res_area":"Bannerghatta Road","res_type":"Casual Dining,Bar"}
+{"res_id":57,"res_name":"Habit@","res_area":"Bellandur","res_type":"Bar,Casual Dining"}
+{"res_id":58,"res_name":"The Punjabi Rasoi","res_area":"HSR","res_type":"Casual Dining"}
+{"res_id":59,"res_name":"Spice It - Ibis Bengaluru","res_area":"Ibis Bengaluru, Marathahalli","res_type":"Casual Dining"}
+{"res_id":60,"res_name":"LIT Gastro Pub","res_area":"Jayanagar","res_type":"Pub"}
+{"res_id":61,"res_name":"The Hidden Home","res_area":"Sarjapur Road","res_type":"Casual Dining"}
+{"res_id":62,"res_name":"Brahmin's Coffee Bar","res_area":"Basavanagudi","res_type":"Quick Bites"}
+{"res_id":63,"res_name":"Crumb Together","res_area":"JP Nagar","res_type":"Casual Dining,Bar"}
+{"res_id":64,"res_name":"Carnatic","res_area":"JP Nagar","res_type":"Casual Dining"}
+{"res_id":65,"res_name":"Patio 805","res_area":"Jayanagar","res_type":"Casual Dining"}
+{"res_id":66,"res_name":"Indigo X II P","res_area":"HSR","res_type":"Pub"}
+{"res_id":67,"res_name":"Brew Meister","res_area":"Jayanagar","res_type":"Microbrewery,Casual Dining"}
+{"res_id":68,"res_name":"Arogya Ahaara","res_area":"HSR","res_type":"Quick Bites"}
+{"res_id":69,"res_name":"Village - The Soul of India","res_area":"Bangalore Central, JP Nagar","res_type":"Casual Dining"}
+{"res_id":70,"res_name":"Le Arabia","res_area":"JP Nagar","res_type":"Casual Dining"}
+{"res_id":71,"res_name":"Moti Mahal Delux","res_area":"HSR","res_type":"Casual Dining"}
+{"res_id":72,"res_name":"Paradise Biryani","res_area":"HSR","res_type":"Casual Dining"}
+{"res_id":73,"res_name":"Tapout Tavern","res_area":"Sarjapur Road","res_type":"Pub,Casual Dining"}
+{"res_id":74,"res_name":"Belgian Waffle Factory","res_area":"Basavanagudi","res_type":"Dessert Parlor"}
+{"res_id":75,"res_name":"Brewsky","res_area":"JP Nagar","res_type":"Microbrewery,Casual Dining"}
