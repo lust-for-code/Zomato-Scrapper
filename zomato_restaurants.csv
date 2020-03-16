@@ -1,8 +1,8 @@
-res_id,res_name,res_area,res_type
+restaurant_id,name,area,restaurant_type
 1,Brahma Brews,JP Nagar,"Microbrewery,Casual Dining"
 2,Masala Mandi,Sarjapur Road,Casual Dining
 3,The Big Barbeque,Electronic City,Casual Dining
-4,Levels,JP Nagar,"Pub,Casual Dining"
+4,Big Pitcher,Sarjapur Road,"Microbrewery,Casual Dining"
 5,Dr. Sheesha 24 Hours Gastro Pub,"The Sahar Pavilion, Electronic City",Pub
 6,Byg Brewski Brewing Company,Sarjapur Road,Microbrewery
 7,URU Brewpark,JP Nagar,"Microbrewery,Casual Dining"
@@ -29,24 +29,24 @@ res_id,res_name,res_area,res_type
 28,Hammered,HSR,"Bar,Casual Dining"
 29,Rural Blues,Sarjapur Road,"Casual Dining,Bar"
 30,Subz,Jayanagar,Casual Dining
-31,OPUS Club,"OPUS, Sarjapur Road",Pub
-32,Onesta,HSR,"Casual Dining,Café"
-33,Whattay Kitchen and Brew,Kanakapura Road,"Microbrewery,Casual Dining"
-34,Grasshopper,Bannerghatta Road,Fine Dining
-35,Empire Restaurant,Jayanagar,Casual Dining
-36,Broadway - The Gourmet Theatre,HSR,"Casual Dining,Bar"
-37,La Casa Brewery And Kitchen,Sarjapur Road,"Microbrewery,Casual Dining"
-38,Chulha Chauki Da Dhaba,Sarjapur Road,Casual Dining
-39,Stories,JP Nagar,"Pub,Casual Dining"
-40,Vidyarthi Bhavan,Basavanagudi,Quick Bites
-41,By The Peepal,JP Nagar,"Microbrewery,Casual Dining"
-42,Brother Barley Brewing Company,HSR,"Microbrewery,Casual Dining"
-43,Dindigul Thalappakatti,Jayanagar,Casual Dining
-44,Ruh,Bellandur,Casual Dining
-45,Al Daaz,HSR,Casual Dining
+31,Whattay Kitchen and Brew,Kanakapura Road,"Microbrewery,Casual Dining"
+32,Grasshopper,Bannerghatta Road,Fine Dining
+33,Empire Restaurant,Jayanagar,Casual Dining
+34,Broadway - The Gourmet Theatre,HSR,"Casual Dining,Bar"
+35,Chulha Chauki Da Dhaba,Sarjapur Road,Casual Dining
+36,La Casa Brewery And Kitchen,Sarjapur Road,"Microbrewery,Casual Dining"
+37,Stories,JP Nagar,"Pub,Casual Dining"
+38,Vidyarthi Bhavan,Basavanagudi,Quick Bites
+39,By The Peepal,JP Nagar,"Microbrewery,Casual Dining"
+40,Brother Barley Brewing Company,HSR,"Microbrewery,Casual Dining"
+41,Dindigul Thalappakatti,Jayanagar,Casual Dining
+42,Ruh,Bellandur,Casual Dining
+43,Al Daaz,HSR,Casual Dining
+44,Oyster,HSR,"Casual Dining,Bar"
+45,Public - The Rooftop Bar And Kitchen,Bannerghatta Road,"Casual Dining,Bar"
 46,Public - The Rooftop Bar And Kitchen,Bannerghatta Road,"Casual Dining,Bar"
-47,Oyster,HSR,"Casual Dining,Bar"
-48,Shift,HSR,"Lounge,Casual Dining"
+47,Shift,HSR,"Lounge,Casual Dining"
+48,Oyster,HSR,"Casual Dining,Bar"
 49,Millennials,JP Nagar,"Bar,Casual Dining"
 50,Three Dots & A Dash,JP Nagar,"Bar,Casual Dining"
 51,Cable Car,Jayanagar,Casual Dining
@@ -54,15 +54,15 @@ res_id,res_name,res_area,res_type
 53,Tea Villa Cafe,Jayanagar,Café
 54,Olive Grove,Electronic City,Casual Dining
 55,Toscano,Jayanagar,Casual Dining
-56,Chavadi,Bannerghatta Road,"Casual Dining,Bar"
-57,Habit@,Bellandur,"Bar,Casual Dining"
-58,The Punjabi Rasoi,HSR,Casual Dining
+56,Habit@,Bellandur,"Bar,Casual Dining"
+57,Chavadi,Bannerghatta Road,"Casual Dining,Bar"
+58,The Punjabi Rasoi,Sarjapur Road,Casual Dining
 59,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli",Casual Dining
 60,LIT Gastro Pub,Jayanagar,Pub
-61,The Hidden Home,Sarjapur Road,Casual Dining
+61,Nandhini Deluxe,Banashankari,Casual Dining
 62,Brahmin's Coffee Bar,Basavanagudi,Quick Bites
-63,Crumb Together,JP Nagar,"Casual Dining,Bar"
-64,Carnatic,JP Nagar,Casual Dining
+63,Carnatic,JP Nagar,Casual Dining
+64,Crumb Together,JP Nagar,"Casual Dining,Bar"
 65,Patio 805,Jayanagar,Casual Dining
 66,Indigo X II P,HSR,Pub
 67,Brew Meister,Jayanagar,"Microbrewery,Casual Dining"
