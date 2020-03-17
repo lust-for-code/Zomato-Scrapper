@@ -68,7 +68,7 @@ for page in pages:
         if res_id<=80:
             records.append((res_id,res_name, res_area, res_type, rating, voting))
 
-#dataframes
+#dataframe
 df=pd.DataFrame(records, columns=['res_id','res_name', 'res_area', 'res_type', 'rating', 'voting'])
 
 #exporting to json format
